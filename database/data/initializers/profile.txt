@@ -1,0 +1,18 @@
+user_id	lastname	firstname	Welcome Message	Summary	Experience	Interests	Fav Quote	avatar_url	gender	birthdate	phone_number	address
+1	Team	SkillBook	System					mt_avatar.jpg	J	0000-00-00		
+2	Mushayahama	Tremayne	Welcome to my profile. 	"I am more than a programmer/coder. I have had a chance to be involved in other disciplines, such as entrepreneurship skills, design skill and many technical things. On the other hand, I enjoy drawing, lazy hiking, pool, chess"	"Web Development, Web Designing, Programming, Teamwork"	"Chess, Drwaing, Hiking, Pool, Networking"	"You jump off a cliff and you assemble an airplane on the way down. - Reid Hoffman, Founder of LinkedIn"	tremayne.jpg	M	0000-00-00		"Irvine, CA, USA"
+3	Nolle	Lindah						mt_avatar.jpg	F	0000-00-00		
+4	Nolle	John						mt_avatar.jpg	M	0000-00-00		
+5	Mushayahama	Joyce						mt_avatar.jpg	F	0000-00-00		
+6	Ash	Paul						mt_avatar.jpg	M	0000-00-00		
+7	Ash	Susan						mt_avatar.jpg	F	0000-00-00		
+8	Georgiev	Simeon						mt_avatar.jpg	M	0000-00-00		
+9	Pedicini	Joey						mt_avatar.jpg	M	0000-00-00		
+10	Oommen	George						mt_avatar.jpg	M	0000-00-00		
+11	Ramasamy	Perumal						mt_avatar.jpg	M	0000-00-00		
+12	Akuli	Ksenafo						mt_avatar.jpg	M	0000-00-00		
+13	Mendola	Richard						mt_avatar.jpg	M	0000-00-00		
+14	Nguyen	Krystal						mt_avatar.jpg	F	0000-00-00		
+15	Proano	Alejandro						alejandro.png	M	0000-00-00		"Santa Monica, CA, USA"
+16	Proano	Saltana						mt_avatar.jpg	F	0000-00-00		"Santa Monica, CA, USA"
+17	Kwong	Lydia						mt_avatar.jpg	F	0000-00-00		

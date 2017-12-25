@@ -1,0 +1,13 @@
+id	type	code	name	description
+1	skill 	SK1	Other	\N
+2	skill 	SK2	Self Management	\N
+3	skill  	SK3	Transferable	\N
+4	skill	SK4	Action Words	\N
+5	skill  	SK5	Academic/Job Related	\N
+6	skill  	SK6	Physical	\N
+7	skill 	SK7	Social	\N
+8	skill 	SK8	Career 	\N
+9	skill 	SK9	Financial 	\N
+10	skill 	SK10	Self Improvement and Spiritual	\N
+11	skill 	SK11	Pleasure 	\N
+12	skill	SK12	Relationships and Family	\N

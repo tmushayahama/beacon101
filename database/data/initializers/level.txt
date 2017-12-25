@@ -1,0 +1,30 @@
+id	parent_level_id	title	code	description	long_description	icon	background_color
+1	\N	apps	apps				
+11	1	skill	skill	Add a Skill	Do something with skills you have gained. Improve your current skills or just learn a new skill	icon-gb-skill	light-blue
+12	1	goal	goal	Add a Goal	"Set your goals, Encourage someone to achieve their goals or get encouraged to keep track of your goals"	icon-gb-goal	pink
+13	1	hobby	hobby	Add a Hobby	Make your skills into your hobbies. Connect with others and see how others are doing with their hobbies	icon-gb-hobby	teal
+101	1	mentorship	mentorship	Create a Mentorship	"Mentor someone or find a mentor. Whether it's peer/friendly, formal or supervisory"	icon-gb-mentorship	deep-purple
+102	1	advice	advice	Add an Advice	Are you good at giving an advice? Are you seeking advice?	icon-gb-advice	indigo
+104	1	promise	promise	Add a Promise	Add a Promise	icon-gb-promise	green
+105	1	teach	teach	Create A Lesson	Create A Lesson	icon-gb-teach	cyan
+106	1	collabo	collabo	Create A Collaboration	Create A Collaboration	icon-gb-collaboration	lime
+201	1	project	project	Create A Project	A project	icon-gb-project	purple
+202	1	page	page	Create A Page	Blogs	icon-gb-page	orange
+11001	1	note	note			icon-gb-note	light-blue
+11002	1	step	step			icon-gb-step	deep-orange
+11003	1	checklist	checklist			icon-gb-checklist	cyan
+11004	1	todo	todo			icon-gb-todo	purple
+11005	1	activity	activity			icon-gb-activity	green
+11006	1	guideline	guideline			icon-gb-guideline	teal
+11007	1	weblink	weblink			icon-gb-weblink	deep-purple
+11100	1	question	question			icon-gb-question	indigo
+20001	1	choice	choice				
+30000	\N	Response Type	responseType				
+30001	30000	None					
+30002	30000	Single Choice					
+30003	30000	Multiple Choice					
+30004	30000	Text					
+30005	30000	List					
+30006	30000	Long Text					
+30007	30000	Datetime					
+30008	30000	Scale					

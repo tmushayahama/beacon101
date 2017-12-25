@@ -1,0 +1,32 @@
+id	parent_note_id	creator_id	title	description	created_date	updated_date	importance	status
+1	NULL	3	Making the bed	Making the bed will make the space look much tidier than it actually is. But don't put anything on top of the bed. 	14-10-01 08:07:00	16-01-25 18:21:00	1	0
+2	NULL	3	Clean Bathroom	"Always make sure the bathroom is clean because if a friend passing by say, ""can I use your bathroom real quick, there is no way to say no."	14-05-16 04:01:00	16-01-09 07:37:00	1	0
+3000	NULL	2	Overall Communication	"Body Language plays a major role, then tone of voice and words"	14-10-01 08:07:03	16-01-25 18:21:03	1	0
+3001	NULL	2	Verbal Communication	"The use of sounds and words to express yourself where the other person can hear you. Such as speaking, listening and understanding"	14-10-01 08:07:04	16-01-25 18:21:04	1	0
+3002	NULL	2	Nonverbal Communication	"The use of visual cues to communicate, exchange information to the other person. I.e. using body language, sign language and eye contact."	14-10-01 08:07:05	16-01-25 18:21:05	1	0
+3003	NULL	2	During Breaks	"When there is a break in the conversation, ask a question or share your thoughts"	14-10-01 08:07:03	16-01-25 18:21:03	1	0
+3004	NULL	5	Pay attention to what you say	Take a moment and pay close attention to what you say and how you say it before saying the first thing that comes into your head.	14-10-01 08:07:04	16-01-25 18:21:04	1	0
+3005	NULL	4	Communicate clearly	By communicating clearly and speaking eloquently you will come across as more intelligent and mature and you can help avoid misunderstandings and potential conflict with others.	14-10-01 08:07:05	16-01-25 18:21:05	1	0
+3006	NULL	4	Vocabulary and Terminology	"Explain things as simply as possible. Avoid jargon, slang, unfamiliar idioms and over-complicated language."	14-10-01 08:07:06	16-01-25 18:21:06	1	0
+3007	NULL	3	Use Humor	Most people like to laugh and will feel drawn to somebody who can make them laugh. Your humor is appropriate to the situation.	14-10-01 08:07:07	16-01-25 18:21:07	1	0
+3008	NULL	5	Improve grammar	"If you have poor grammar, your thoughts and ideas may not come across as clearly as you wouldd like"	14-10-01 08:07:08	16-01-25 18:21:08	1	0
+3009	NULL	7	Speak with inflection	"Questions should ascend in pitch at the end. Statements should inflect somewhat deeper, with finality. Notice which syllables and words get emphasis"	14-10-01 08:07:09	16-01-25 18:21:09	1	0
+3100	NULL	2	You are receiving one word answers	If you are receiving one word answers it might be that you are asking too many close-ended questions.	14-10-01 08:07:01	16-01-25 18:21:01	1	0
+3101	NULL	2	Weekend Plans	Asking people about their weekend plans or how their weekend went can lead to other subjects. You can ask follow up questions about their plans since you have a grasp of what they like/dislike. E.g. “I went to a Justin Bieber convert on Saturday”.	14-05-16 04:01:01	16-01-09 07:37:01	1	0
+3200	NULL	2	Is it a Cliché?	It is a cliché but it can lead to other subjects. It does not show how creative you are but the point is to show that you want to start the conversation. You can even talk about how cliché it is.	14-10-01 08:07:02	16-01-25 18:21:02	1	0
+10000	NULL	2	Be the host 	Be the host of the conversation in social situation	14-05-16 04:01:02	16-01-09 07:37:02	1	0
+10001	NULL	2	Keeps conversation going	"Don’t dismiss small talks as a waste of time, they make the conversation going"	14-10-01 08:07:03	16-01-25 18:21:03	1	0
+10002	NULL	2	Stalled Conversation	Small talks and repetitive questions are a good way to restart a stalled conversation	14-05-16 04:01:03	16-01-09 07:37:03	1	0
+10003	NULL	2	Initiative	"Most people are feeling just as shy as you are, so taking the initiative will be a great relief for them"	14-10-01 08:07:04	16-01-25 18:21:04	1	0
+10004	NULL	2	Unavoidable social situation	"You can hold a conversation with people you have to socialize with, but don't have a lot in common"	14-05-16 04:01:04	16-01-09 07:37:04	1	0
+10005	NULL	2	Paying Attention	People love to talk about themselves if someone is paying attention to them	14-10-01 08:07:05	16-01-25 18:21:05	1	0
+10006	NULL	2	Asking questions	Start with questions that be answered in few words then build upon those questions	14-05-16 04:01:05	16-01-09 07:37:05	1	0
+10007	NULL	2	Remameber people's names		14-10-01 08:07:06	16-01-25 18:21:06	1	0
+1000000	NULL	2	Diphthongs	A combination of two adjacent vowel sounds within the same syllable	14-10-01 08:07:06	16-01-25 18:21:06	1	0
+1000001	NULL	2	2 categories of Spanish vowels	"Strong vowels (a, e, o) and weak vowels (i, u)"	14-05-16 04:01:06	16-01-09 07:37:06	1	0
+1000002	NULL	2	Hiatus	2 vowels pronounced as two distinct syllables	14-10-01 08:07:07	16-01-25 18:21:07	1	0
+1000003	NULL	2	letter u	Sometimes u's purpose in a word is to make a consonant hard rather than soft e.g. Portugués and guisantes	14-10-01 08:07:07	16-01-25 18:21:07	1	0
+1000004	NULL	2	"Vowel, or n or s ending"	"Words ending in a vowel, or n or s, the next to last syllable is stressed."	14-05-16 04:01:07	16-01-09 07:37:07	1	0
+1000005	NULL	2	Consonant other than n or s ending	Words ending in a consonant other than n or s stress falls on the last syllable.	14-10-01 08:07:08	16-01-25 18:21:08	1	0
+1000006	NULL	2	Accent Mark	"If the word has an accent mark, then that syllable is stressed"	14-10-01 08:07:08	16-01-25 18:21:08	1	0
+								

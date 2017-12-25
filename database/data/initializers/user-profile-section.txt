@@ -1,0 +1,6 @@
+id	creator_id	profile_section_id	description	created_at	updated_at	type	order	status
+1	2	1	"I am more than a programmer/coder. I have had a chance to be involved in other disciplines, such as entrepreneurship skills, design skill and many technical things. On the other hand, I enjoy drawing, lazy hiking, pool, chess"	0000-00-00	0000-00-00	1	1	1
+2	2	2	"Web Development, Web Designing, Programming, Teamwork"	0000-00-00	0000-00-00	1	1	1
+3	2	3	"Chess, Drawing, Hiking, Pool, Networking"	0000-00-00	0000-00-00	1	1	1
+4	2	4	"You jump off a cliff and you assemble an airplane on the way down. - Reid Hoffman, Founder of LinkedIn"	0000-00-00	0000-00-00	1	1	1
+5	2	5	https://www.linkedin.com/in/tremayne-mushayahama-39363784	0000-00-00	0000-00-00	2	1	1

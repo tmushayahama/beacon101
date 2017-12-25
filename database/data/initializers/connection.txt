@@ -1,0 +1,5 @@
+id	name	connection_picture	description	created_date
+1	Connections	mt_connections.png	All my connections.	0000-00-00 00:00:00
+2	Friends	mt_friends.png	Right friends.	0000-00-00 00:00:00
+3	Family	mt_family.png	Your family members.	0000-00-00 00:00:00
+4	Followers	mt_followers.png	Your followers.	0000-00-00 00:00:00

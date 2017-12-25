@@ -1,0 +1,7 @@
+id	title	description	creator_id	created_at	updated_at	type	status
+1	Summary		1	0000-00-00	0000-00-00	1	1
+2	Experience		1	0000-00-00	0000-00-00	1	1
+3	Interests		1	0000-00-00	0000-00-00	1	1
+4	Favorite Quote		1	0000-00-00	0000-00-00	1	1
+5	LinkedIn		1	0000-00-00	0000-00-00	1	1
+6	Personal Website		1	0000-00-00	0000-00-00	1	1

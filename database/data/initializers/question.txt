@@ -1,0 +1,398 @@
+id	creator_id	description		created_at	updated_at	type	status	rand
+1	1	What would you want to say to yourself 2 years in the future?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.773911559
+2	1	What makes some not enjoy helping people?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.044031732
+3	1	What interests do you have outside work that positively affect your job performance?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.780327573
+4	1	"How can you make your life more meaningful, starting today?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.693941938
+5	1	What have you done to make your job easier?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.027262557
+6	1	"Before you pass away, what's one mark you want to leave on the world?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.790240565
+7	1	What are the achievements you are most proud of?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.820184036
+8	1	What are the biggest things you've learned in life to date?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.925900744
+9	1	What are some of your favorite books?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.985079738
+10	1	Do you enjoy setting long-term goals?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.943496578
+11	1	What does it mean to be your highest self?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.155613839
+12	1	 What abilities do you want to develop?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.193232681
+13	1	"Do you have your notes, documents and other paperwork in good order?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.451945243
+14	1	What is your inner dialogue like?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.942786048
+15	1	What is your favorite part about today so far?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.187511316
+16	1	Are you settling for less than what you are worth? Why?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.282093408
+17	1	How do you feel right now?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.687755632
+18	1	Is there something you're still holding on to? When is it time to let it go?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.921602966
+19	1	How do you handle last-minute changes?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.591545369
+20	1	What is your favorite color?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.841854073
+21	1	What was your favorite subject in school?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.845193626
+22	1	What are the times you are most inspired and most motivated??		5/5/2014 10:00	5/5/2014 10:00	1	0	0.340021797
+23	1	Describe how you overcome an obstacle to reach a goal?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.389238169
+24	1	What personalities are hindering you from achieving my goals?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.818064684
+25	1	Are you good at writing essays?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.209899038
+26	1	Do you think that you are able to respond quickly without panicking in unexpected situations?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.475078871
+27	1	Did you ever have to deal with a co-worker who wasn't pulling his/her weight?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.411324924
+28	1	What I am most grateful about for right now?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.767748918
+29	1	Have your efforts ever helped some project or idea succeed?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.812034721
+30	1	"In general, what do you think about art?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.654202669
+31	1	What does a typical day look like?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.71672853
+32	1	What's the biggest risk you have taken in recent years? Was the risk worth it?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.49466398
+33	1	What is the biggest personal change you have ever made?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.452090699
+34	1	What are some of your major goals in life?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.090383116
+35	1	Are you living the life of your dreams?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.757758916
+36	1	What bad habits do you want to break?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.053585553
+37	1	"If you knew you would die tomorrow, would you feel cheated today?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.28908259
+38	1	Give an example of a time you had to pitch an idea?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.593245598
+39	1	What moves you?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.269816716
+40	1	What are you most grateful for in life?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.999176958
+41	1	Do you have a planner?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.300762651
+42	1	Who are you?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.272958801
+43	1	How long do you need to pick a meal on a menu?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.150207546
+44	1	Are you am uncertain about what you have achieved?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.870286052
+45	1	What is holding you back?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.391962222
+46	1	What makes someone an expert in a specific field?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.749213183
+47	1	What was your favorite class? Why?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.873251143
+48	1	What part of your work has given you the greatest feeling of satisfaction?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.967762183
+49	1	Are you afraid of letting others get close to you? Why?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.875455853
+50	1	How did you meet your spouse/girlfriend/boyfriend?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.9859009
+51	1	What are you busy with today? Will this matter 1 year from now?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.755626121
+52	1	What do you need to do to achieve your ideal home?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.028754861
+53	1	"What excites you? What scares you, about this year?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.306702671
+54	1	What is your passion?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.34299302
+55	1	Where do you want to get to?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.825582862
+56	1	Do you like to plan things out in detail or be spontaneous?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.84805322
+57	1	Are you shy to show off your skills?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.346045272
+58	1	Is there anything you are running away from?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.181122039
+59	1	How much personal control or influence do you have over your goal?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.988282705
+60	1	What do you love doing?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.441243525
+61	1	"If someone asked you to give them a random piece of advice, what would you say?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.949947478
+62	1	How do you overcome obstacles to my learning?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.588443734
+63	1	What does success look like?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.016065169
+64	1	Do you think all people are equally valuable?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.88130908
+65	1	Do you like spicy food?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.279417062
+66	1	What are you good at?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.030738593
+67	1	What abilities do you possess?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.663558158
+68	1	What would you like not to happen that is happening now?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.083214676
+69	1	What is stopping you from doing what you want to do?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.553877038
+70	1	What was the best decision you ever made?  What were the alternatives?  How did you go about making it?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.333274687
+71	1	What skill did you enjoy learning?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.269595766
+72	1	Who are some people you would like to meet someday?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.228004982
+73	1	What skill you did not enjoy learning		5/5/2014 10:00	5/5/2014 10:00	1	0	0.725355345
+74	1	How do you handle breaks in routines?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.28535332
+75	1	Describe your sense of humor.		5/5/2014 10:00	5/5/2014 10:00	1	0	0.059243951
+76	1	Can you make friends easily?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.268870432
+77	1	Are you better at starting a lot of projects or one big projects?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.631219652
+78	1	Have you ever been in a fist fight?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.569490553
+79	1	What was the hardest decision you ever made?  What were the alternatives?  How did you go about making it?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.03762914
+80	1	Do you sometimes hide your feelings?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.800019893
+81	1	Are you good at public speaking?  		5/5/2014 10:00	5/5/2014 10:00	1	0	0.272071037
+82	1	What makes you different?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.443465215
+83	1	What approach did you take to get a point across to different types of people?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.94650647
+84	1	What is your favorite food?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.908293988
+85	1	"If you could go back in history, who would you like to meet?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.056231716
+86	1	What would you like to happen that is not happening now?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.149407305
+87	1	Do you have any brothers or sisters? How many?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.849489949
+88	1	Are you good at making decisions?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.394415358
+89	1	What did you do on your 18th birthday?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.978631305
+90	1	How is the first step you go about learning new skills?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.277730058
+91	1	Do you prepare what to say when meeting new people?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.614275625
+92	1	What are the most important things to you in life?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.015181806
+93	1	Where would you want to spend your time on?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.131509389
+94	1	Do you like to compete?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.445483044
+95	1	How do you measure success?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.053714911
+96	1	Do you have a best/closest friend?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.817314735
+97	1	What maxims or beliefs do you live by?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.271405622
+98	1	What kind of vacations do you like?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.300548255
+99	1	What is your earliest memory?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.424816875
+100	1	Have you ever found an error in your own work?  How did it happen?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.894739301
+101	1	Describe the procedures you have used to keep track of things.		5/5/2014 10:00	5/5/2014 10:00	1	0	0.696583338
+102	1	How would you explain a complicated procedure to someone who was new to the situation? Give an example.		5/5/2014 10:00	5/5/2014 10:00	1	0	0.340185897
+103	1	Which feeling do you enjoy more: The feeling of achieving the goal or the process of trying to reach the goal?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.268301987
+104	1	How can you start creating your ideal career starting today?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.94061717
+105	1	What kind of music are you into?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.862081843
+106	1	What motivates you?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.678339832
+107	1	How can you get to know him/her?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.464589514
+108	1	What qualities do you want to have?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.602438681
+109	1	What past experience have you got?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.830813459
+110	1	Who do you look up to?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.396265019
+111	1	Do you like meetings?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.699361286
+112	1	Who are the people who have achieved similar goals as yours? What can you learn from them?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.165434747
+113	1	Do you have a favorite number? Any particular reason why you like that number?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.086353556
+114	1	"In general, how do people react when you ask questions?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.189434809
+115	1	Describe steps you take before attending a meeting?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.708038348
+116	1	Why do you exist?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.984373854
+117	1	What part of your work have you found to be the most frustrating?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.468384763
+118	1	What is the top priority in your life right now? What are you doing about it?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.009264711
+119	1	Do you love yourself? Why or Why not?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.542001706
+120	1	What is the worst thing that is ever happened to you?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.820534798
+121	1	How do you like your steak cooked?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.179726692
+122	1	"What was the last argument you had, and what was your position?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.886150623
+123	1	What do you need to do to achieve your ideal physical look?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.271439762
+124	1	What do you and your role models share in common?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.723983237
+125	1	What kind of person do you want to become?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.800743342
+126	1	Do you cry easily?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.666558443
+127	1	Which new activity did you try this year?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.771147621
+128	1	Can you put up with unpleasant behavior in another person without losing your temper?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.387008196
+129	1	How can you create the opportunities you are looking for?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.885333534
+130	1	Describe when you have to delay a decision so you would have more time to think?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.231284588
+131	1	What is one of your favorite habits you have?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.650028076
+132	1	Are you working in a position related to your degree?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.167211176
+133	1	Do you like your job?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.252960353
+134	1	What is your dream?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.636922178
+135	1	How did you get into your career path?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.030474251
+136	1	Do you feel that the education you have received at the university has been satisfactory?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.55046679
+137	1	Why do you get out of bed?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.770956631
+138	1	What is your ideal home like?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.981438619
+139	1	What is your mission?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.948453074
+140	1	Are you an introvert or an extrovert?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.739329792
+141	1	What part of your work have you found to be unsatisfying?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.507122664
+142	1	Have you ever tried sushi? (Did you like it?)		5/5/2014 10:00	5/5/2014 10:00	1	0	0.805811898
+143	1	What was the easiest decision you had to make?  What made it so easy?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.843956762
+144	1	What is your ideal physical look?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.822275568
+145	1	Would you ever sky dive or bungee jump?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.267199876
+146	1	Describe a good personality.		5/5/2014 10:00	5/5/2014 10:00	1	0	0.420893381
+147	1	What was your life like growing up?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.556469123
+148	1	What are your values?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.495997032
+149	1	Where are you in life now?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.475375437
+150	1	Who in your life has influenced you the most? How did they do it?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.513529371
+151	1	Describe a complex situation in which you had a lot to learn.		5/5/2014 10:00	5/5/2014 10:00	1	0	0.162976812
+152	1	What is one of the strangest things you have ever done?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.78980574
+153	1	How do you disagree to some rules and policies at your job?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.617018133
+154	1	"Can you plan your work in advance, in detail?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.546911758
+155	1	Are you a recognized personality in your group?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.446505559
+156	1	Do you enjoy indoor or outdoor activities?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.665803069
+157	1	"If you give instructions to someone and then learned he/she did it wrong, what do you do next?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.077600348
+158	1	Do you work in an orderly way?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.84897361
+159	1	Describe a situation where you found you had a serious problem? What did you do to solve it?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.665735031
+160	1	"If you could try out any job for a day, what would you like to try?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.307328535
+161	1	For every experience you get: What are the biggest things you have learned?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.686917451
+162	1	How would you describe yourself?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.602273909
+163	1	Who inspire you the most?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.307299786
+164	1	Who is the most important people to you in the world?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.613425907
+165	1	What do you represent?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.497140615
+166	1	How many instruments can you play?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.251058568
+167	1	Do you have highly original ideas?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.8841141
+168	1	"If someone were to make a movie about your life, who would you hope would play you?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.997641479
+169	1	Do you spend more time with the most important people in your life?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.100373831
+170	1	What is the meaning of life?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.420640839
+171	1	Do you have any friends or family to appreciate what you were working on?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.679467114
+172	1	Why did you choose your particular line of work?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.836008776
+173	1	Do you like helping people?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.727261988
+174	1	Describe a boss you want to have?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.662912152
+175	1	What learning goals do you set?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.78788771
+176	1	Do you enjoy repairing things?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.754004436
+177	1	"Do you measure twice, cut once or look before you leap?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.463066363
+178	1	Describe your work ethics.		5/5/2014 10:00	5/5/2014 10:00	1	0	0.891052883
+179	1	What types of work do you like best?  Why?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.416654267
+180	1	Where can you meet people who have the qualities you are looking for?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.898520713
+181	1	What is your favorite joke?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.006147261
+182	1	Do you think people can control their own destiny?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.510565878
+183	1	"If you were a type of animal, what would you be and why?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.237790496
+184	1	What hiders you to help others?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.873723338
+185	1	Have you found it necessary to make an exception to the rules in order to get something done?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.458335507
+186	1	Describe your decision-making approach		5/5/2014 10:00	5/5/2014 10:00	1	0	0.04490181
+187	1	"If there was no failure in life, what would you attempt?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.379942121
+188	1	What are some of your favorite movies?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.695425832
+189	1	What is something you wish everyone knew about you?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.098920139
+190	1	Are you prepared to tell people if they are mistaken?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.108361431
+191	1	Describe your methods of assigning work to a person?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.982563827
+192	1	What parts of your life are you putting on hold? Why?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.661681621
+193	1	"If you go to a new place, what steps can you take to adjust to the new place?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.73556955
+194	1	Are you able to express what you think in a clear and intelligible manner?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.464170549
+195	1	Would you recommend your career for other people? Why/Why not?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.774169614
+196	1	Do you usually feel relaxed?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.910380939
+197	1	What can you do to start living your ideal life?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.907331316
+198	1	Describe occasions when you feel you make up your mind too slowly?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.001915151
+199	1	How would you react when you face your fears?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.963535279
+200	1	What do you do every day between 6-12am?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.83743056
+201	1	What is the stupidest thing you have ever done?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.686593451
+202	1	Do you believe that some people are naturally geniuses?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.906921998
+203	1	What advice would you give to yourself 5 years ago?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.025709386
+204	1	Do you like traveling?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.837139625
+205	1	Do most people understand your questions and you want to know?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.693490477
+206	1	What do you do every day between 12pm and 4pm?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.098631036
+207	1	Is earth flat or globe?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.052693413
+208	1	What is your ideal career?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.176715926
+209	1	What is the best prank you have ever pulled?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.767782616
+210	1	 What were the limits of authority in your previous jobs?  		5/5/2014 10:00	5/5/2014 10:00	1	0	0.227697534
+211	1	Why did you select to attend your college/university?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.232565093
+212	1	What are your weaknesses?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.336530015
+213	1	Is it overnight successes or simply lucky?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.713591627
+214	1	"How many emails do you get each week, roughly?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.070055275
+215	1	What is one of the scariest things you have ever done?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.883943847
+216	1	Describe your last achievement?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.074578992
+217	1	What is your favorite dessert?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.346489922
+218	1	"If you could visit any country in the world, where would you go?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.620478625
+219	1	Are you a morning or night person?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.744985553
+220	1	How do you feel about public speaking?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.479596319
+221	1	What do you like least about yourself?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.576058947
+222	1	What kind of person are you?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.374103747
+223	1	Are you good at dancing alone or with a partner?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.821256127
+224	1	Do you feel some rules should be obeyed more stringently than others?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.617606128
+225	1	What is the biggest lie you have ever told?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.893963216
+226	1	Are you clever with your hands?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.854300652
+227	1	What was the toughest decision you had to make?  What made it so difficult?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.084588206
+228	1	What is your sense of purpose?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.124203149
+229	1	What do you think people think of you?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.561626994
+230	1	What are some of your smaller goals in life?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.55144318
+231	1	What were you like in high school?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.086712823
+232	1	How would you explain your basic life philosophy?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.993548276
+233	1	Are you very particular about cleanliness?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.503905202
+234	1	What educational training have you had that helped your career?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.169228192
+235	1	What is your purpose in life?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.665004564
+236	1	What is your ideal life?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.519887063
+237	1	Are you nervous before big events?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.799485674
+238	1	How long does it take you before you felt comfortable with the company's products or services?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.9642113
+239	1	Why do you look up to them?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.457362297
+240	1	What are some things that make you really sad?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.065206641
+241	1	What do you do to keep yourself informed?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.15427875
+242	1	Why did you select to attend your high school?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.60050603
+243	1	How do you handle supervising a close friend?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.974625467
+244	1	Describe the best boss you ever had.  What made him/her so great to work for?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.359443697
+245	1	What is the best decision you ever made?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.796625677
+246	1	How do you handle change of priorities?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.723168787
+247	1	Have you done more than was required in your job?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.760742443
+248	1	What kinds of problems have you had in switching from one job to another?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.884136406
+249	1	"When there's a difference of opinion, do you confront others indirectly or directly?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.442159368
+250	1	What part of your work has given you the greatest feeling of achievement?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.997782235
+251	1	What would you spend your time on?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.76203353
+252	1	What sort of mood swings do you experience?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.603114395
+253	1	How do you react to compliments?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.241862384
+254	1	What are some things that scare you?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.329891677
+255	1	 Can you usually find what you need without searching?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.261985215
+256	1	How do you react when someone is unfriendly towards you?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.3162029
+257	1	Are you good in asking for forgiveness?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.714247454
+258	1	Describe a positive attitude.		5/5/2014 10:00	5/5/2014 10:00	1	0	0.941933864
+259	1	Are you artistic?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.340820282
+260	1	What do you need to learn this year to accomplish last year's unfinished goals?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.449582986
+261	1	What drives you?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.44709396
+262	1	"Based on my daily routines and actions, where can I expect to be in five years?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.075121213
+263	1	Are you good at solving technical problems?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.709162742
+264	1	Do you have the required licenses?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.410845013
+265	1	Have anyone stole credit for an idea you came up with? What did you do?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.44033841
+266	1	Do you review work critically?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.299822778
+267	1	Are the people you spend time with enabling you or holding you back?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.597099646
+268	1	"If you are yourself 5 years from the future, how would you advise yourself now?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.020478743
+269	1	What is your ideal diet?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.494730509
+270	1	Do you sometimes debate without understanding the underlying theory?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.756910832
+271	1	Have you ever taken a personality test?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.332261928
+272	1	What do you need to do to achieve your ideal diet?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.016790595
+273	1	What have you done to make your job more rewarding?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.454214437
+274	1	Do you like to talk on the phone?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.289216485
+275	1	Where do you see yourself in five years?  		5/5/2014 10:00	5/5/2014 10:00	1	0	0.577229957
+276	1	Describe a decision you made based largely on data you obtained by asking questions.		5/5/2014 10:00	5/5/2014 10:00	1	0	0.309344222
+277	1	Would you rather be hated or forgotten?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.182113165
+278	1	Is it easy for you to ask somebody a question?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.292577295
+279	1	How strictly do you believe your co-workers normally follow the rules?  Do you approve of their attitude?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.029726442
+280	1	How do you react to failure?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.067597251
+281	1	What drives you everyday?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.122662266
+282	1	How do you measure achievement of goals?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.189839125
+283	1	What opportunities are you looking for?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.924497487
+284	1	Any wish?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.432595382
+285	1	What do you think we could do to best improve the education system?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.722182916
+286	1	What is meaningful for you?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.998885112
+287	1	Would you rather live in the country or in the city?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.108492687
+288	1	Where and what does your mood swings usually stem from?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.635987147
+289	1	What good habits do you want to develop?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.466579663
+290	1	What is the first thing you notice about people?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.831098792
+291	1	What do you think would be one of the best steps we could take toward ending poverty around the world?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.647715457
+292	1	What steps do take to correct your errors?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.353817638
+293	1	Are you living your life to the fullest right now?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.338045364
+294	1	What empowering beliefs can you take on to help you achieve your goals?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.419139232
+295	1	What is your ideal life partner like?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.921626101
+296	1	What are your strengths?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.898057262
+297	1	What is the biggest turnoff in a man/woman?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.302638809
+298	1	Can you handdle heavy manual work without problems?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.920057988
+299	1	"When you were a kid, what did you want to be when you grew up?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.634036037
+300	1	What is your ideal self?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.140950554
+301	1	What do you do?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.288916143
+302	1	How do you see rivals?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.240358
+303	1	What limiting beliefs are you holding on to?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.668276846
+304	1	What is your role model?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.60562265
+305	1	Have you felt it was proper to act on your own than consult others?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.017109917
+306	1	What is my conscience directing you towards?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.681108444
+307	1	Do you make New Year's resolutions?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.409755697
+308	1	What was the worst decision you ever made?  What were the alternatives?  How did you go about making it?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.597029521
+309	1	What is the highest level of school you completed?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.158765768
+310	1	Can you make an important decision without having to consult others?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.037994785
+311	1	"If you have 1 million dollars, what will you do with it?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.793885491
+312	1	Describe your learning approach.		5/5/2014 10:00	5/5/2014 10:00	1	0	0.87467824
+313	1	Can you usually anticipate what will happen after you have taken some action?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.589482962
+314	1	Which knowledge and skills areas do you need to focus on?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.472074553
+315	1	What disappoints you?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.764805201
+316	1	When was the last time you made an error?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.293374385
+317	1	What did you learn from last year?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.296000792
+318	1	What are you thinking about right now?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.712459992
+319	1	What accomplishment are you most proud of?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.94720352
+320	1	What are some of the first things you do in the morning?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.48153539
+321	1	Do you have a demonstrable talent for singing?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.282842558
+322	1	Do you believe in overnight successes?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.811611215
+323	1	What do you want to represent?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.29539044
+324	1	Describe the difficult boss you ever had.  What made him/her so hard to work for?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.330931037
+325	1	How long does it take you to decide which restaurant to eat at?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.243109552
+326	1	How can you change someone's life for the better today?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.637691529
+327	1	How do you solve possible work-related problems?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.905410891
+328	1	Do you enjoy meeting new people?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.406501086
+329	1	What drives you after a failure?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.382386491
+330	1	What is something most people do not know about you?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.238858746
+331	1	"If you could learn one random skill, what would you learn?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.856859002
+332	1	What are some things that make you really happy?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.757734827
+333	1	Which one wildly bold goal would you like to accomplish?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.528878554
+334	1	Describe a project or idea you originated in the past? How did you know your idea was a good idea?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.546400977
+335	1	Detail oriented or a big-picture person?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.70303326
+336	1	Can you persuade people by talking to them?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.169842844
+337	1	How do you see competition?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.51239719
+338	1	What have you learned today?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.007409113
+339	1	What activities are hindering you from achieving my goals?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.648227351
+340	1	How do you act when given significant responsibility over others?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.852485571
+341	1	What courses did you start and then later drop out of?  Why?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.192637067
+342	1	What do you want to achieve long term?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.866757118
+343	1	What are some of your favorite websites?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.012414113
+344	1	What was the dumbest idea or venture you have ever put time on? Why was it dumb?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.313395152
+345	1	Where can you find your ideal partner?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.507313964
+346	1	How can you love yourself more today?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.275439837
+347	1	How do you handle interruptions in routines?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.17887365
+348	1	What do you think is one of the most undervalued professions right now?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.22116428
+349	1	How do you feel about money?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.731694859
+350	1	Have you ever recognized a problem or opportunity before anyone else?  Describe.		5/5/2014 10:00	5/5/2014 10:00	1	0	0.598471941
+351	1	Do you believe in luck?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.945888429
+352	1	Describe a work-related problem you had to face recently. What procedures did you use to deal with it?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.551737267
+353	1	What do you do every night are 5pm?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.106166896
+354	1	What types of work would you prefer to avoid?  Why?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.844180032
+355	1	"If you were going to write a book, what would you call it and what would it be about?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.92289371
+356	1	"What pace do you work at? Are you fast, slow or moderate worker?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.902325966
+357	1	How do you know you have reached a goal?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.822705338
+358	1	Do you think people are basically bad or basically good?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.997518506
+359	1	Describe what you do after a job meeting?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.437085343
+360	1	What is one of your favorite questions to ask new friends or to get a conversation going?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.385521698
+361	1	What do you fear most?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.441024615
+362	1	Can you listen to others and understand their problems		5/5/2014 10:00	5/5/2014 10:00	1	0	0.240675226
+363	1	Are you able to calm others down?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.676864788
+364	1	What are the biggest actions you can take now to create the biggest results in your life?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.428149084
+365	1	What do you care about?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.006523786
+366	1	Have you ever done any public speaking?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.543752336
+367	1	How do you keep track of things that require your attention?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.695077362
+368	1	Describe occasions when you feel you make up your mind too quickly?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.570294945
+369	1	How do handle working with difficult people?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.716234048
+370	1	Who are your mentors in life?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.892055843
+371	1	Have you ever had trouble learning a new procedure?  How did you deal with that situation?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.759522953
+372	1	What do you do for fun?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.02358151
+373	1	"If you take something apart, do you remember how to put it together again?"		5/5/2014 10:00	5/5/2014 10:00	1	0	0.698257655
+374	1	What embarrasses you?		5/5/2014 10:00	5/5/2014 10:00	1	0	0.504921276
+1000000	3	Which nonverbal cues suggest the nature of a conversation?		5/5/2014 10:00	5/5/2014 10:00	2	0	0.504921276
+1000001	3	What language are the participants speaking?		5/5/2014 10:00	5/5/2014 10:00	2	0	0.504921276
+1000002	3	How do you tell what language the participants are speaking?		5/5/2014 10:00	5/5/2014 10:00	2	0	0.504921276
+1000100	5	What was the person's voice pitch?		5/5/2014 10:00	5/5/2014 10:00	2	0	0.504921276
+1000101	5	What was the person's voice tone?		5/5/2014 10:00	5/5/2014 10:00	2	0	0.504921276
+1000102	5	What was the person's volume?		5/5/2014 10:00	5/5/2014 10:00	2	0	0.504921276
+1000103	5	"Did the person have other sounds such as stutters, sighs, hesitations?"		5/5/2014 10:00	5/5/2014 10:00	2	0	0.504921276
+1000200	7	Did you jump ahead on the first situations?		5/5/2014 10:00	5/5/2014 10:00	2	0	0.504921276
+1000201	7	What happens in your mind in each situation?		5/5/2014 10:00	5/5/2014 10:00	2	0	0.504921276
+1000300	2	How did you lose your concentration?		5/5/2014 10:00	5/5/2014 10:00	2	0	0.504921276
+1000301	2	"Did a previous, unresolved conversation or thought intervene?"		5/5/2014 10:00	5/5/2014 10:00	2	0	0.504921276
+1000302	2	Were you daydreaming?		5/5/2014 10:00	5/5/2014 10:00	2	0	0.504921276
+1000303	2	Were you distracted by an unfamiliar word or a physical interference?		5/5/2014 10:00	5/5/2014 10:00	2	0	0.504921276
+2000000	1	My motivations		5/5/2014 10:00	5/5/2014 10:00	3	0	0.504921276
+2000001	1	My goals		5/5/2014 10:00	5/5/2014 10:00	3	0	0.504921276
+2000002	1	My background knowledge		5/5/2014 10:00	5/5/2014 10:00	3	0	0.504921276
+2000003	1	Materials and Resources		5/5/2014 10:00	5/5/2014 10:00	3	0	0.504921276
+2000004	1	Learning Strategies		5/5/2014 10:00	5/5/2014 10:00	3	0	0.504921276
+2000005	1	My plans and timeline		5/5/2014 10:00	5/5/2014 10:00	3	0	0.504921276
+2000006	1	Applications		5/5/2014 10:00	5/5/2014 10:00	3	0	0.504921276
+2000007	1	Acknowledge your strengths		5/5/2014 10:00	5/5/2014 10:00	3	0	0.504921276
+2000008	1	Identify your weaknesses		5/5/2014 10:00	5/5/2014 10:00	3	0	0.504921276
+2000009	1	Any obstacles		5/5/2014 10:00	5/5/2014 10:00	3	0	0.504921276
