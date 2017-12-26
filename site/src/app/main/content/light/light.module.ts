@@ -3,28 +3,27 @@ import { RouterModule } from '@angular/router';
 
 import { SharedModule } from '../../../core/modules/shared.module';
 
-import { FuseSampleComponent } from './sample.component';
+import { LightComponent } from './light.component';
 
 const routes = [
     {
-        path     : 'sample',
-        component: FuseSampleComponent
+        path: 'light',
+        component: LightComponent
     }
 ];
 
 @NgModule({
     declarations: [
-        FuseSampleComponent
+        LightComponent
     ],
-    imports     : [
+    imports: [
         SharedModule,
         RouterModule.forChild(routes)
     ],
-    exports     : [
-        FuseSampleComponent
+    exports: [
+        LightComponent
     ]
 })
 
-export class FuseSampleModule
-{
+export class LightModule {
 }

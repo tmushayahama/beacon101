@@ -1,25 +1,23 @@
-export class NavigationModel
-{
+export class NavigationModel {
     public model: any[];
 
-    constructor()
-    {
+    constructor() {
         this.model = [
             {
-                'id'      : 'applications',
-                'title'   : 'Applications',
-                'type'    : 'group',
+                'id': 'applications',
+                'title': 'Applications',
+                'type': 'group',
                 'children': [
                     {
-                        'id'   : 'sample',
-                        'title': 'Sample',
-                        'type' : 'item',
-                        'icon' : 'email',
-                        'url'  : '/sample',
+                        'id': 'light',
+                        'title': 'Light',
+                        'type': 'item',
+                        'icon': 'email',
+                        'url': '/light',
                         'badge': {
                             'title': 25,
-                            'bg'   : '#F44336',
-                            'fg'   : '#FFFFFF'
+                            'bg': '#F44336',
+                            'fg': '#FFFFFF'
                         }
                     }
                 ]
