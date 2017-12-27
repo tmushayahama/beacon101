@@ -1,0 +1,16 @@
+.bn-color-sidenav {
+  width: 300px;
+}
+
+.light-panel-toggle-button {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  height: 60px;
+  width: 60px;
+  min-width: 60px;
+  background-color: #FFF;
+  mat-icon {
+    color: #4e4022
+  }
+}

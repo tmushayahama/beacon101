@@ -10,7 +10,8 @@ import { locale as turkish } from './i18n/tr';
     styleUrls: ['./light.component.scss']
 })
 export class LightComponent implements OnInit {
-    color: string = '#4785F5';
+    public color = '#4785F5';
+
     constructor(private translationLoader: FuseTranslationLoaderService,
         private light: LightService) {
         this.translationLoader.loadTranslations(english, turkish);

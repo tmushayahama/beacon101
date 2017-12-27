@@ -1,7 +1,11 @@
 <div class="page-layout blank p-24" fusePerfectScrollbar [ngStyle]="{'background-color': color}">
-  <input [(colorPicker)]="color" [style.background]="color" (colorPickerChange)="sendMessage(color)" />
 
-  <h1>
-    {{color}}
-  </h1>
+  <button mat-raised-button color="accent" class="light-panel-toggle-button" fuseMatSidenavToggler="bn-light-settings" aria-label="Toggle quick panel">
+    <mat-icon class="icon s-32">palette</mat-icon>
+  </button>
+  <mat-sidenav fuseMatSidenavHelper="bn-light-settings" align="end" class="bn-color-sidenav">
+    <div class="bn-light-changer" [cpDialogDisplay]="'inline'" (colorPickerChange)="sendMessage($event)" [cpToggle]="true" [(colorPicker)]="color"
+      [cpWidth]="'300px'" [cpHeight]="'300px'" [cpDisableInput]="true">
+    </div>
+  </mat-sidenav>
 </div>
