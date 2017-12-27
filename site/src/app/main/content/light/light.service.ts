@@ -1,4 +1,4 @@
-import { environment } from '../../../../../environments/environment';
+import { environment } from '../../../../environments/environment';
 import { Injectable } from '@angular/core';
 import { ActivatedRouteSnapshot, Resolve, RouterStateSnapshot } from '@angular/router';
 import { Observable } from 'rxjs/Observable';
@@ -10,7 +10,7 @@ import 'rxjs/add/operator/map';
 import { WebSocketService } from '../../../core/services/web-socket.service';
 
 @Injectable()
-export class ExplorerService {
+export class LightService {
     card: any;
     messages: Subject<any>;
 

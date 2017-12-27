@@ -21,10 +21,12 @@ import { FuseIfOnDomDirective } from '../directives/fuse-if-on-dom/fuse-if-on-do
 import { FuseMaterialColorPickerComponent } from '../components/material-color-picker/material-color-picker.component';
 import { FuseTranslationLoaderService } from '../services/translation-loader.service';
 import { CookieService } from 'ngx-cookie-service';
+
+import { WebSocketService } from '../services/web-socket.service';
 import { TranslateModule } from '@ngx-translate/core';
 
 @NgModule({
-    declarations   : [
+    declarations: [
         FuseMatSidenavHelperDirective,
         FuseMatSidenavTogglerDirective,
         FuseConfirmDialogComponent,
@@ -34,7 +36,7 @@ import { TranslateModule } from '@ngx-translate/core';
         FusePerfectScrollbarDirective,
         FuseMaterialColorPickerComponent
     ],
-    imports        : [
+    imports: [
         FlexLayoutModule,
         MaterialModule,
         CommonModule,
@@ -45,7 +47,7 @@ import { TranslateModule } from '@ngx-translate/core';
         NgxDnDModule,
         NgxDatatableModule
     ],
-    exports        : [
+    exports: [
         FlexLayoutModule,
         MaterialModule,
         CommonModule,
@@ -67,16 +69,16 @@ import { TranslateModule } from '@ngx-translate/core';
     entryComponents: [
         FuseConfirmDialogComponent
     ],
-    providers      : [
+    providers: [
         CookieService,
         FuseMatchMedia,
         FuseNavbarVerticalService,
         FuseMatSidenavHelperService,
-        FuseTranslationLoaderService
+        FuseTranslationLoaderService,
+        WebSocketService
     ]
 })
 
-export class SharedModule
-{
+export class SharedModule {
 
 }

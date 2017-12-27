@@ -4,6 +4,7 @@ import { RouterModule } from '@angular/router';
 import { SharedModule } from '../../../core/modules/shared.module';
 
 import { LightComponent } from './light.component';
+import { LightService } from './light.service';
 
 const routes = [
     {
@@ -22,6 +23,9 @@ const routes = [
     ],
     exports: [
         LightComponent
+    ],
+    providers: [
+        LightService
     ]
 })
 

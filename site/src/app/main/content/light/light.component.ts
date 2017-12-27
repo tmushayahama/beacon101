@@ -1,4 +1,4 @@
-import { Component, OnInit} from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { FuseTranslationLoaderService } from '../../../core/services/translation-loader.service';
 import { LightService } from './light.service';
 import { locale as english } from './i18n/en';
@@ -9,18 +9,19 @@ import { locale as turkish } from './i18n/tr';
     templateUrl: './light.component.html',
     styleUrls: ['./light.component.scss']
 })
-export class LightComponent {
-    constructor(private translationLoader: FuseTranslationLoaderService) {
+export class LightComponent implements OnInit {
+    constructor(private translationLoader: FuseTranslationLoaderService,
+        private light: LightService) {
         this.translationLoader.loadTranslations(english, turkish);
     }
 
     ngOnInit() {
-        this.chat.messages.subscribe(msg => {
+        this.light.messages.subscribe(msg => {
             console.log(msg);
         });
     }
 
     sendMessage() {
-        this.chat.sendMsg('Test Message');
+        this.light.sendMsg('Test Message');
     }
 }

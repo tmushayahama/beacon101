@@ -5,5 +5,7 @@
 
 export const environment = {
     production: false,
-    hmr       : false
+    hmr: false,
+    apiUrl: 'http://localhost:8009/public/',
+    wsUrl: 'http://localhost:5000'
 };
