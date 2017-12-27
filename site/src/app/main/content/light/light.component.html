@@ -1,3 +1,7 @@
-<div class="page-layout blank p-24" fusePerfectScrollbar [ngStyle]="{'background-color': 'red'}">
+<div class="page-layout blank p-24" fusePerfectScrollbar [ngStyle]="{'background-color': color}">
+  <input [(colorPicker)]="color" [style.background]="color" (colorPickerChange)="sendMessage(color)" />
 
+  <h1>
+    {{color}}
+  </h1>
 </div>

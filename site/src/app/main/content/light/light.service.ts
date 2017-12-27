@@ -14,7 +14,6 @@ export class LightService {
     card: any;
     messages: Subject<any>;
 
-    // Our constructor calls our wsService connect method
     constructor(private http: HttpClient, private wsService: WebSocketService) {
         this.messages = <Subject<any>>wsService
             .connect()

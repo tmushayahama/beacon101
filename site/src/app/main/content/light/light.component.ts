@@ -10,6 +10,7 @@ import { locale as turkish } from './i18n/tr';
     styleUrls: ['./light.component.scss']
 })
 export class LightComponent implements OnInit {
+    color: string = '#4785F5';
     constructor(private translationLoader: FuseTranslationLoaderService,
         private light: LightService) {
         this.translationLoader.loadTranslations(english, turkish);
@@ -18,10 +19,13 @@ export class LightComponent implements OnInit {
     ngOnInit() {
         this.light.messages.subscribe(msg => {
             console.log(msg);
+            this.color = msg.text;
         });
     }
 
-    sendMessage() {
-        this.light.sendMsg('Test Message');
+
+    sendMessage(msg) {
+        console.log(msg);
+        this.light.sendMsg(msg);
     }
 }
